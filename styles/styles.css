@@ -183,10 +183,10 @@ body {
 
 @keyframes words {
     0%,20%{
-        content: "Fullstacks Developer";
+        content: "Manual Tester";
     }
     21%,40%{
-        content: "Manual Tester";
+        content: "Fullstack Developer";
     }
     41%,60%{
         content: "Son";
